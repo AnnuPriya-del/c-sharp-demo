@@ -1,0 +1,15 @@
+/workspaces/c-sharp-demo/HandsonExercises/bin/Debug/net10.0/HandsonExercises
+/workspaces/c-sharp-demo/HandsonExercises/bin/Debug/net10.0/HandsonExercises.deps.json
+/workspaces/c-sharp-demo/HandsonExercises/bin/Debug/net10.0/HandsonExercises.runtimeconfig.json
+/workspaces/c-sharp-demo/HandsonExercises/bin/Debug/net10.0/HandsonExercises.dll
+/workspaces/c-sharp-demo/HandsonExercises/bin/Debug/net10.0/HandsonExercises.pdb
+/workspaces/c-sharp-demo/HandsonExercises/obj/Debug/net10.0/HandsonExercises.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/c-sharp-demo/HandsonExercises/obj/Debug/net10.0/HandsonExercises.AssemblyInfoInputs.cache
+/workspaces/c-sharp-demo/HandsonExercises/obj/Debug/net10.0/HandsonExercises.AssemblyInfo.cs
+/workspaces/c-sharp-demo/HandsonExercises/obj/Debug/net10.0/HandsonExercises.csproj.CoreCompileInputs.cache
+/workspaces/c-sharp-demo/HandsonExercises/obj/Debug/net10.0/HandsonExercises.sourcelink.json
+/workspaces/c-sharp-demo/HandsonExercises/obj/Debug/net10.0/HandsonExercises.dll
+/workspaces/c-sharp-demo/HandsonExercises/obj/Debug/net10.0/refint/HandsonExercises.dll
+/workspaces/c-sharp-demo/HandsonExercises/obj/Debug/net10.0/HandsonExercises.pdb
+/workspaces/c-sharp-demo/HandsonExercises/obj/Debug/net10.0/HandsonExercises.genruntimeconfig.cache
+/workspaces/c-sharp-demo/HandsonExercises/obj/Debug/net10.0/ref/HandsonExercises.dll
