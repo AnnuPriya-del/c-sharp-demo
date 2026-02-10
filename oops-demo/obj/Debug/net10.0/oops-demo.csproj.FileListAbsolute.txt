@@ -1,0 +1,15 @@
+/workspaces/c-sharp-demo/oops-demo/obj/Debug/net10.0/oops-demo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/c-sharp-demo/oops-demo/obj/Debug/net10.0/oops-demo.AssemblyInfoInputs.cache
+/workspaces/c-sharp-demo/oops-demo/obj/Debug/net10.0/oops-demo.AssemblyInfo.cs
+/workspaces/c-sharp-demo/oops-demo/obj/Debug/net10.0/oops-demo.csproj.CoreCompileInputs.cache
+/workspaces/c-sharp-demo/oops-demo/obj/Debug/net10.0/oops-demo.sourcelink.json
+/workspaces/c-sharp-demo/oops-demo/bin/Debug/net10.0/oops-demo
+/workspaces/c-sharp-demo/oops-demo/bin/Debug/net10.0/oops-demo.deps.json
+/workspaces/c-sharp-demo/oops-demo/bin/Debug/net10.0/oops-demo.runtimeconfig.json
+/workspaces/c-sharp-demo/oops-demo/bin/Debug/net10.0/oops-demo.dll
+/workspaces/c-sharp-demo/oops-demo/bin/Debug/net10.0/oops-demo.pdb
+/workspaces/c-sharp-demo/oops-demo/obj/Debug/net10.0/oops-demo.dll
+/workspaces/c-sharp-demo/oops-demo/obj/Debug/net10.0/refint/oops-demo.dll
+/workspaces/c-sharp-demo/oops-demo/obj/Debug/net10.0/oops-demo.pdb
+/workspaces/c-sharp-demo/oops-demo/obj/Debug/net10.0/oops-demo.genruntimeconfig.cache
+/workspaces/c-sharp-demo/oops-demo/obj/Debug/net10.0/ref/oops-demo.dll
